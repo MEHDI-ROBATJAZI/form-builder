@@ -1,0 +1,105 @@
+{
+  "inputs": [
+    {
+      "type":"input",
+      "name": "text",
+      "placeholder":"please write your text"
+    },
+    {
+      "type":"input",
+      "name": "number",
+      "placeholder":"please write your age"
+      
+    },
+    {
+      "type":"input",
+      "name": "button",
+      "value":"you'r button"
+    },
+    {
+      "type":"input",
+      "name": "color"
+    },
+    {
+      "type":"input",
+      "name": "email",
+      "placeholder":"your real email"
+    },
+
+    {
+      "type":"input",
+      "name": "file"
+    },
+    {
+      "type":"input",
+      "name": "image"
+    },
+    {
+      "type":"input",
+      "name": "month"
+    },
+    {
+      "type":"input",
+      "placeholder":"type your password",
+      "name": "password"
+    },
+    {
+      "type":"input",
+      "name": "radio",
+      "values":["male","female","other"]
+    },
+    {
+      "type":"input",
+      "name": "checkbox",
+      "values":["sport","game","programming"]
+    },
+    {
+      "type":"input",
+      "name": "range"
+    },
+    {
+      "type":"input",
+      "name": "reset"
+    },
+    {
+      "type":"input",
+      "name": "search",
+      "placeholder":"search"
+    },
+    {
+      "type":"input",
+      "name": "tel",
+      "placeholder":"tel"
+    },
+    {
+      "type":"input",
+      "name": "time"
+    },
+    {
+      "type":"input",
+      "name": "url",
+      "placeholder":"write your url"
+    },
+    {
+      "type":"input",
+      "name": "week"
+    },
+    {
+      "type":"select",
+      "name": "select",
+      "options":["tehran" , "karaj","esfahan" , "mashhad"]
+    },
+    {
+      "type":"textarea",
+      "name": "textarea"
+    },
+    {
+      "type":"input",
+      "name": "hidden"
+    },
+    {
+      "type":"input",
+      "name": "submit"
+    }
+  ]
+}
